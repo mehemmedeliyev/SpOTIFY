@@ -1,0 +1,128 @@
+*,body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navul a:hover{
+  color: #cccccc;
+  transition: 0.5s;
+}
+#sec1button{
+  border-radius: 24px;
+  padding: 10px 60px  !important;
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  transition: 0.5s;
+}
+#sec1button:hover{
+  background-color: rgb(224, 221, 221);
+}
+
+#sec2box div{
+  cursor: pointer;
+}
+#sec2box h4{
+  font-weight: bold;
+}
+#sec2box p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec5button{
+  border-radius: 24px;
+  padding: 12px 70px !important;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background-color:white;
+  transition: 0.5s;
+}
+#sec5button:hover{
+  background-color: rgb(216, 214, 214);
+}
+
+#twitter:hover{
+  color: rgb(93, 117, 223);
+  transition: 0.5s;
+  cursor: pointer;  
+}
+#instagram:hover{
+color: rgb(192, 55, 192);
+transition: 0.5s;
+cursor: pointer;  
+}
+#facebook:hover{
+  color: rgb(100, 123, 255);
+  cursor: pointer;
+}
+#fotobox{
+  transition: 0.5s;
+}
+#foto{
+  transition: 0.5s;
+}
+#foto:hover{
+  transform: rotate(6deg );
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+
+
+
+
+
+.bg-linear{
+  background: linear-gradient(#b023c2,#931acf,#610be6);
+}
+.p-6{
+  padding: 100px;
+}
+.pt-6{
+  padding-top: 120px;
+}
+.pb-6{
+  padding-bottom: 120px;
+}
+.py-6{
+  padding: 95px 0px;
+}
+.display-11{
+  font-size: 40px; 
+  font-weight: normal !important;
+  
+}
+.display-12{
+  font-size: 40px;
+  font-weight: bold;
+}
+.py-7{
+  padding: 145px 0px;
+}
+.rounded-1{
+  border-radius: 50px;
+}
+.bg-circle{
+  background: linear-gradient(#d02db3,#a11ec8,#670de2);
+}
+.bg-black{
+  background-color: #000000ba;
+}
+.bg-blackdark{
+  background-color: #000000;
+}
+.display-6{
+  font-size: 30px;
+}
+.display-7{
+  font-size: 58px;
+  font-weight: bold;
+}
+.display-8{
+  font-size: 80px;
+  font-weight: bold;
+}
+.display-9{
+  font-size: 47px;
+  font-weight: bold;
+  
+}
